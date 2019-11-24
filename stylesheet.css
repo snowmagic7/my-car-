@@ -1,0 +1,22 @@
+h1{
+
+  font-size: 50px;
+}
+p {
+  color :#black;
+  font-size: 30px;
+
+}
+img {
+  width: 75%;
+
+}
+body{
+  background-color: #f6f0cc;
+  text-align: center;
+}
+.selected {
+
+  width:75%;
+  margin-bottom: 100px;
+}
