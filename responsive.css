@@ -1,9 +1,10 @@
-media (max-width:600px)
+media (max-width:600px){
 
 
 h1{
   font-size: 25px;
 }
-p {
+h3{
   font-size: 25px;
+}
 }
