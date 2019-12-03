@@ -1,4 +1,4 @@
-media(max-width:670px){
+@media(max-width:670px){
 h1{
   font-size: 25px;
 }
