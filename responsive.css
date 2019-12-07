@@ -3,10 +3,13 @@ h1{
   font-size: 25px;
 }
 img{
-  width:75%;
+  width:90%;
   }
 P{
   color: #111bd4;
   font-size: 20px;
  }
+.selected {
+  width:90%;
+  }
 }
