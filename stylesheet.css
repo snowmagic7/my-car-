@@ -12,6 +12,8 @@ img {
 }
 body{
   background-color: #f6f0cc;
+  background-image: ;
+  background-size: cover;
   text-align: center;
 }
 .selected {
